@@ -1,0 +1,778 @@
+Crime_Year,PrimaryType,Total_Crime,Total_Arrest
+2001,Arson,1011,181
+2001,Assault,31389,7152
+2001,Battery,93472,20467
+2001,Burglary,26015,1695
+2001,"Concealed Carry Violation",1,1
+2001,"Criminal Damage",55867,4548
+2001,"Criminal Sexual Assault",1817,423
+2001,"Criminal Trespass",13242,10262
+2001,"Deceptive Practice",14959,4789
+2001,"Domestic Violence",1,1
+2001,Gambling,934,931
+2001,Homicide,645,419
+2001,"Interference With Officer",406,328
+2001,Intimidation,280,75
+2001,Kidnapping,933,138
+2001,"Liquor Law Violation",1637,1636
+2001,"Motor Vehicle Theft",27556,3417
+2001,Narcotics,50568,50560
+2001,Obscenity,19,19
+2001,"Offense Involving Children",2268,815
+2001,"Other Narcotic Violation",6,6
+2001,"Other Offense",29669,5299
+2001,Prostitution,6026,6023
+2001,"Public Indecency",9,9
+2001,"Public Peace Violation",2750,923
+2001,Ritualism,8,1
+2001,Robbery,18441,1841
+2001,"Sex Offense",2238,841
+2001,Stalking,204,51
+2001,Theft,99292,15546
+2001,"Weapons Violation",4278,3540
+2002,Arson,1032,156
+2002,Assault,31524,7342
+2002,Battery,94152,21330
+2002,Burglary,25623,1667
+2002,"Criminal Damage",55942,4403
+2002,"Criminal Sexual Assault",1840,407
+2002,"Criminal Trespass",13881,10632
+2002,"Deceptive Practice",13740,3806
+2002,Gambling,971,969
+2002,Homicide,638,417
+2002,"Interference With Officer",361,269
+2002,Intimidation,337,59
+2002,Kidnapping,829,83
+2002,"Liquor Law Violation",1414,1413
+2002,"Motor Vehicle Theft",25121,3163
+2002,Narcotics,51789,51781
+2002,Obscenity,26,24
+2002,"Offense Involving Children",2597,781
+2002,"Other Narcotic Violation",5,5
+2002,"Other Offense",32602,5701
+2002,Prostitution,6408,6408
+2002,"Public Indecency",8,8
+2002,"Public Peace Violation",2457,929
+2002,Ritualism,2,1
+2002,Robbery,18523,1761
+2002,"Sex Offense",2173,775
+2002,Stalking,200,44
+2002,Theft,98335,13697
+2002,"Weapons Violation",4282,3539
+2003,Arson,955,140
+2003,Assault,29477,6910
+2003,Battery,88380,20460
+2003,Burglary,25157,1615
+2003,"Criminal Damage",55011,4060
+2003,"Criminal Sexual Assault",1618,315
+2003,"Criminal Trespass",14807,11618
+2003,"Deceptive Practice",13465,3549
+2003,Gambling,1088,1088
+2003,Homicide,570,362
+2003,"Interference With Officer",409,346
+2003,Intimidation,364,47
+2003,Kidnapping,705,69
+2003,"Liquor Law Violation",1311,1310
+2003,"Motor Vehicle Theft",22749,2740
+2003,Narcotics,54288,54283
+2003,Obscenity,16,15
+2003,"Offense Involving Children",3047,864
+2003,"Other Narcotic Violation",2,2
+2003,"Other Offense",31149,5856
+2003,Prostitution,6214,6214
+2003,"Public Indecency",6,6
+2003,"Public Peace Violation",2430,1049
+2003,Ritualism,2,0
+2003,Robbery,17332,1596
+2003,"Sex Offense",2080,688
+2003,Stalking,247,44
+2003,Theft,98876,12889
+2003,"Weapons Violation",4211,3447
+2004,Arson,778,109
+2004,Assault,28850,7005
+2004,Battery,87134,20718
+2004,Burglary,24564,1378
+2004,"Criminal Damage",53164,3965
+2004,"Criminal Sexual Assault",1584,322
+2004,"Criminal Trespass",15913,12845
+2004,"Deceptive Practice",13263,3292
+2004,Gambling,1122,1120
+2004,Homicide,444,288
+2004,"Interference With Officer",531,465
+2004,Intimidation,349,69
+2004,Kidnapping,482,58
+2004,"Liquor Law Violation",985,982
+2004,"Motor Vehicle Theft",22805,2514
+2004,Narcotics,57060,57034
+2004,Obscenity,13,12
+2004,"Offense Involving Children",3106,703
+2004,"Other Narcotic Violation",9,9
+2004,"Other Offense",29533,5386
+2004,Prostitution,7476,7474
+2004,"Public Indecency",9,9
+2004,"Public Peace Violation",2495,1307
+2004,Ritualism,1,0
+2004,Robbery,15978,1479
+2004,"Sex Offense",1806,650
+2004,Stalking,215,36
+2004,Theft,95464,12068
+2004,"Weapons Violation",4298,3405
+2005,Arson,691,121
+2005,Assault,27067,6631
+2005,Battery,83964,19994
+2005,Burglary,25503,1413
+2005,"Criminal Damage",54548,4083
+2005,"Criminal Sexual Assault",1562,286
+2005,"Criminal Trespass",16655,13710
+2005,"Deceptive Practice",13593,3203
+2005,Gambling,1078,1077
+2005,Homicide,445,278
+2005,"Interference With Officer",615,552
+2005,Intimidation,258,43
+2005,Kidnapping,389,55
+2005,"Liquor Law Violation",1005,1001
+2005,"Motor Vehicle Theft",22497,2343
+2005,Narcotics,56234,56121
+2005,Obscenity,19,17
+2005,"Offense Involving Children",2910,668
+2005,"Other Narcotic Violation",9,6
+2005,"Other Offense",28028,4726
+2005,Prostitution,6124,6116
+2005,"Public Indecency",4,4
+2005,"Public Peace Violation",2730,1583
+2005,Ritualism,2,0
+2005,Robbery,16047,1640
+2005,"Sex Offense",1822,599
+2005,Stalking,192,23
+2005,Theft,85684,11338
+2005,"Weapons Violation",4106,3291
+2006,Arson,726,117
+2006,Assault,25946,6288
+2006,Battery,80666,18892
+2006,Burglary,24324,1559
+2006,"Criminal Damage",57124,4135
+2006,"Criminal Sexual Assault",1488,247
+2006,"Criminal Trespass",14505,11483
+2006,"Deceptive Practice",13613,2855
+2006,Gambling,1368,1355
+2006,Homicide,459,272
+2006,"Interference With Officer",758,679
+2006,Intimidation,276,42
+2006,Kidnapping,339,55
+2006,"Liquor Law Violation",1135,1116
+2006,"Motor Vehicle Theft",21818,1988
+2006,Narcotics,55813,55236
+2006,Obscenity,17,14
+2006,"Offense Involving Children",2789,672
+2006,"Other Narcotic Violation",9,7
+2006,"Other Offense",27101,4010
+2006,Prostitution,7034,6983
+2006,"Public Indecency",4,4
+2006,"Public Peace Violation",3068,1990
+2006,Ritualism,7,1
+2006,Robbery,15969,1734
+2006,"Sex Offense",1576,549
+2006,Stalking,186,25
+2006,Theft,86242,10108
+2006,"Weapons Violation",3821,3000
+2007,Arson,712,93
+2007,Assault,26313,6551
+2007,Battery,79595,19384
+2007,Burglary,24858,1548
+2007,"Criminal Damage",53749,3994
+2007,"Criminal Sexual Assault",1566,236
+2007,"Criminal Trespass",13699,10606
+2007,"Deceptive Practice",14181,2853
+2007,Gambling,1409,1380
+2007,Homicide,430,248
+2007,"Interference With Officer",677,629
+2007,Intimidation,255,51
+2007,Kidnapping,329,33
+2007,"Liquor Law Violation",1170,1154
+2007,"Motor Vehicle Theft",18573,1779
+2007,Narcotics,54454,53251
+2007,Obscenity,12,10
+2007,"Offense Involving Children",2922,695
+2007,"Other Narcotic Violation",12,4
+2007,"Other Offense",26863,4230
+2007,Prostitution,6087,6001
+2007,"Public Indecency",5,5
+2007,"Public Peace Violation",3315,2269
+2007,Ritualism,1,0
+2007,Robbery,15450,1615
+2007,"Sex Offense",1531,550
+2007,Stalking,213,34
+2007,Theft,85156,9783
+2007,"Weapons Violation",3554,2884
+2008,Arson,644,59
+2008,Assault,25449,5315
+2008,Battery,75930,15523
+2008,Burglary,26218,1553
+2008,"Criminal Damage",52843,3403
+2008,"Criminal Sexual Assault",1567,286
+2008,"Criminal Trespass",12310,6541
+2008,"Deceptive Practice",14945,2173
+2008,Gambling,1199,1157
+2008,Homicide,489,270
+2008,"Interference With Officer",580,460
+2008,Intimidation,261,56
+2008,Kidnapping,359,38
+2008,"Liquor Law Violation",912,887
+2008,"Motor Vehicle Theft",18881,1526
+2008,Narcotics,46506,45482
+2008,Obscenity,13,13
+2008,"Offense Involving Children",2676,551
+2008,"Other Narcotic Violation",12,11
+2008,"Other Offense",26532,3495
+2008,Prostitution,5141,5083
+2008,"Public Indecency",4,3
+2008,"Public Peace Violation",3013,1776
+2008,Robbery,16703,1688
+2008,"Sex Offense",1504,424
+2008,Stalking,190,24
+2008,Theft,88437,9292
+2008,"Weapons Violation",3877,2924
+2009,Arson,616,69
+2009,Assault,22861,5700
+2009,Battery,68460,16326
+2009,Burglary,26767,1414
+2009,"Criminal Damage",47725,3270
+2009,"Criminal Sexual Assault",1451,235
+2009,"Criminal Trespass",10851,7933
+2009,"Deceptive Practice",13897,2459
+2009,Gambling,991,986
+2009,Homicide,442,237
+2009,"Human Trafficking",1,0
+2009,"Interference With Officer",573,528
+2009,Intimidation,231,39
+2009,Kidnapping,293,29
+2009,"Liquor Law Violation",746,738
+2009,"Motor Vehicle Theft",15482,1300
+2009,Narcotics,43543,43215
+2009,Obscenity,21,16
+2009,"Offense Involving Children",2638,534
+2009,"Other Narcotic Violation",7,5
+2009,"Other Offense",25601,4204
+2009,Prostitution,3940,3926
+2009,"Public Indecency",10,10
+2009,"Public Peace Violation",3147,2289
+2009,Robbery,15981,1563
+2009,"Sex Offense",1268,415
+2009,Stalking,168,23
+2009,Theft,80977,9901
+2009,"Weapons Violation",4159,3474
+2010,Arson,522,66
+2010,Assault,21537,5051
+2010,Battery,65403,14278
+2010,Burglary,26422,1380
+2010,"Criminal Damage",40654,2641
+2010,"Criminal Sexual Assault",1399,255
+2010,"Criminal Trespass",9401,6502
+2010,"Deceptive Practice",12595,2080
+2010,Gambling,927,927
+2010,Homicide,410,198
+2010,"Human Trafficking",1,0
+2010,"Interference With Officer",797,698
+2010,Intimidation,198,23
+2010,Kidnapping,314,27
+2010,"Liquor Law Violation",737,736
+2010,"Motor Vehicle Theft",19029,1047
+2010,Narcotics,43398,43299
+2010,Obscenity,34,27
+2010,"Offense Involving Children",2643,542
+2010,"Other Narcotic Violation",6,2
+2010,"Other Offense",22012,3269
+2010,Prostitution,2484,2479
+2010,"Public Indecency",7,7
+2010,"Public Peace Violation",3538,2525
+2010,Robbery,14275,1362
+2010,"Sex Offense",1146,339
+2010,Stalking,189,26
+2010,Theft,76758,7845
+2010,"Weapons Violation",3704,2911
+2011,Arson,504,48
+2011,Assault,20411,5184
+2011,Battery,60460,14139
+2011,Burglary,26620,1274
+2011,"Criminal Damage",37331,2583
+2011,"Criminal Sexual Assault",1517,233
+2011,"Criminal Trespass",8659,6417
+2011,"Deceptive Practice",12757,2469
+2011,Gambling,736,736
+2011,Homicide,423,202
+2011,"Human Trafficking",1,0
+2011,"Interference With Officer",1047,982
+2011,Intimidation,171,42
+2011,Kidnapping,266,31
+2011,"Liquor Law Violation",619,615
+2011,"Motor Vehicle Theft",19388,947
+2011,Narcotics,38604,38545
+2011,Obscenity,40,31
+2011,"Offense Involving Children",2450,492
+2011,"Other Narcotic Violation",5,3
+2011,"Other Offense",20207,3174
+2011,Prostitution,2424,2419
+2011,"Public Indecency",13,13
+2011,"Public Peace Violation",3095,2399
+2011,Robbery,13983,1325
+2011,"Sex Offense",1098,355
+2011,Stalking,182,30
+2011,Theft,75153,8468
+2011,"Weapons Violation",3880,3146
+2012,Arson,469,46
+2012,Assault,19900,4791
+2012,Battery,59132,13066
+2012,Burglary,22844,1288
+2012,"Criminal Damage",35855,2463
+2012,"Criminal Sexual Assault",1471,227
+2012,"Criminal Trespass",8216,6055
+2012,"Deceptive Practice",13791,2976
+2012,Gambling,724,723
+2012,Homicide,490,228
+2012,"Interference With Officer",1228,1162
+2012,Intimidation,156,34
+2012,Kidnapping,235,22
+2012,"Liquor Law Violation",573,562
+2012,"Motor Vehicle Theft",16490,868
+2012,Narcotics,35489,35228
+2012,Obscenity,26,23
+2012,"Offense Involving Children",2353,455
+2012,"Other Narcotic Violation",6,4
+2012,"Other Offense",17524,2765
+2012,Prostitution,2204,2189
+2012,"Public Indecency",17,17
+2012,"Public Peace Violation",3007,2251
+2012,Robbery,13484,1385
+2012,"Sex Offense",1089,296
+2012,Stalking,207,38
+2012,Theft,75464,8250
+2012,"Weapons Violation",3907,3264
+2013,Arson,364,46
+2013,Assault,17972,4467
+2013,Battery,54006,12928
+2013,Burglary,17894,1104
+2013,"Criminal Damage",30856,2107
+2013,"Criminal Sexual Assault",1359,248
+2013,"Criminal Trespass",8136,6074
+2013,"Deceptive Practice",13952,2521
+2013,Gambling,596,591
+2013,Homicide,418,197
+2013,"Human Trafficking",2,1
+2013,"Interference With Officer",1281,1203
+2013,Intimidation,135,20
+2013,Kidnapping,242,34
+2013,"Liquor Law Violation",465,448
+2013,"Motor Vehicle Theft",12582,834
+2013,Narcotics,34129,33821
+2013,Obscenity,25,19
+2013,"Offense Involving Children",2523,448
+2013,"Other Narcotic Violation",5,4
+2013,"Other Offense",18051,3414
+2013,Prostitution,1652,1648
+2013,"Public Indecency",10,10
+2013,"Public Peace Violation",3135,2330
+2013,Robbery,11819,1332
+2013,"Sex Offense",1063,297
+2013,Stalking,154,32
+2013,Theft,71536,7727
+2013,"Weapons Violation",3245,2667
+2014,Arson,397,34
+2014,Assault,16903,4507
+2014,Battery,49455,12522
+2014,Burglary,14569,910
+2014,"Concealed Carry Violation",15,12
+2014,"Criminal Damage",27799,2095
+2014,"Criminal Sexual Assault",1400,201
+2014,"Criminal Trespass",7539,5490
+2014,"Deceptive Practice",15995,1776
+2014,Gambling,393,392
+2014,Homicide,421,195
+2014,"Human Trafficking",3,0
+2014,"Interference With Officer",1399,1324
+2014,Intimidation,115,27
+2014,Kidnapping,220,18
+2014,"Liquor Law Violation",397,386
+2014,"Motor Vehicle Theft",9911,763
+2014,Narcotics,29118,29002
+2014,Obscenity,39,29
+2014,"Offense Involving Children",2566,489
+2014,"Other Narcotic Violation",10,8
+2014,"Other Offense",17020,4172
+2014,Prostitution,1625,1612
+2014,"Public Indecency",10,10
+2014,"Public Peace Violation",2903,2349
+2014,Robbery,9800,1051
+2014,"Sex Offense",1027,253
+2014,Stalking,142,28
+2014,Theft,61569,7423
+2014,"Weapons Violation",3113,2581
+2015,Arson,453,52
+2015,Assault,17048,4061
+2015,Battery,48927,11566
+2015,Burglary,13184,728
+2015,"Concealed Carry Violation",34,33
+2015,"Criminal Damage",28677,1835
+2015,"Criminal Sexual Assault",1464,183
+2015,"Criminal Trespass",6401,4396
+2015,"Deceptive Practice",16494,1019
+2015,Gambling,310,310
+2015,Homicide,475,204
+2015,"Human Trafficking",13,4
+2015,"Interference With Officer",1308,1253
+2015,Intimidation,123,21
+2015,Kidnapping,190,15
+2015,"Liquor Law Violation",292,291
+2015,"Motor Vehicle Theft",10068,1003
+2015,Narcotics,23939,23931
+2015,Non-criminal,1,1
+2015,Obscenity,49,35
+2015,"Offense Involving Children",2527,448
+2015,"Other Narcotic Violation",5,2
+2015,"Other Offense",17566,4797
+2015,Prostitution,1322,1320
+2015,"Public Indecency",14,14
+2015,"Public Peace Violation",2422,1881
+2015,Robbery,9638,935
+2015,"Sex Offense",1053,235
+2015,Stalking,155,31
+2015,Theft,57354,6776
+2015,"Weapons Violation",3364,2683
+2016,Arson,516,53
+2016,Assault,18743,3494
+2016,Battery,50300,10335
+2016,Burglary,14289,699
+2016,"Concealed Carry Violation",36,34
+2016,"Criminal Damage",31018,1669
+2016,"Criminal Sexual Assault",1628,182
+2016,"Criminal Trespass",6306,3724
+2016,"Deceptive Practice",19453,834
+2016,Gambling,189,189
+2016,Homicide,753,270
+2016,"Human Trafficking",11,2
+2016,"Interference With Officer",936,887
+2016,Intimidation,136,25
+2016,Kidnapping,202,15
+2016,"Liquor Law Violation",227,226
+2016,"Motor Vehicle Theft",11285,1098
+2016,Narcotics,13333,13327
+2016,Non-criminal,1,0
+2016,Obscenity,51,38
+2016,"Offense Involving Children",2515,373
+2016,"Other Narcotic Violation",4,3
+2016,"Other Offense",17309,3416
+2016,Prostitution,800,800
+2016,"Public Indecency",10,10
+2016,"Public Peace Violation",1607,1116
+2016,Robbery,11960,986
+2016,"Sex Offense",1064,204
+2016,Stalking,176,16
+2016,Theft,61628,6522
+2016,"Weapons Violation",3450,2510
+2017,Arson,444,40
+2017,Assault,19306,3463
+2017,Battery,49242,10095
+2017,Burglary,13001,653
+2017,"Concealed Carry Violation",69,66
+2017,"Criminal Damage",29045,1750
+2017,"Criminal Sexual Assault",1703,152
+2017,"Criminal Trespass",6814,4018
+2017,"Deceptive Practice",19812,850
+2017,Gambling,191,191
+2017,Homicide,628,213
+2017,"Human Trafficking",9,1
+2017,"Interference With Officer",1087,1032
+2017,Intimidation,150,14
+2017,Kidnapping,190,17
+2017,"Liquor Law Violation",191,191
+2017,"Motor Vehicle Theft",11380,916
+2017,Narcotics,11683,11677
+2017,Non-criminal,1,0
+2017,Obscenity,87,66
+2017,"Offense Involving Children",2466,410
+2017,"Other Narcotic Violation",11,7
+2017,"Other Offense",17273,3775
+2017,Prostitution,735,735
+2017,"Public Indecency",10,10
+2017,"Public Peace Violation",1498,1022
+2017,Robbery,11881,923
+2017,"Sex Offense",1073,216
+2017,Stalking,192,24
+2017,Theft,64387,6475
+2017,"Weapons Violation",4686,3678
+2018,Arson,373,41
+2018,Assault,20408,3366
+2018,Battery,49834,10299
+2018,Burglary,11747,598
+2018,"Concealed Carry Violation",149,145
+2018,"Criminal Damage",27823,1686
+2018,"Criminal Sexual Assault",1749,187
+2018,"Criminal Trespass",6909,3802
+2018,"Deceptive Practice",20000,894
+2018,Gambling,201,201
+2018,Homicide,575,245
+2018,"Human Trafficking",12,1
+2018,"Interference With Officer",1307,1245
+2018,Intimidation,169,13
+2018,Kidnapping,172,8
+2018,"Liquor Law Violation",268,268
+2018,"Motor Vehicle Theft",9985,551
+2018,Narcotics,13593,13587
+2018,Non-criminal,1,0
+2018,Obscenity,86,68
+2018,"Offense Involving Children",2485,365
+2018,"Other Narcotic Violation",1,0
+2018,"Other Offense",17272,3578
+2018,Prostitution,718,718
+2018,"Public Indecency",14,14
+2018,"Public Peace Violation",1372,826
+2018,Robbery,9681,809
+2018,"Sex Offense",1272,233
+2018,Stalking,208,21
+2018,Theft,65292,6340
+2018,"Weapons Violation",5456,3803
+2019,Arson,376,43
+2019,Assault,20624,3744
+2019,Battery,49527,10417
+2019,Burglary,9639,551
+2019,"Concealed Carry Violation",217,212
+2019,"Criminal Damage",26683,1671
+2019,"Criminal Sexual Assault",1674,139
+2019,"Criminal Trespass",6819,3793
+2019,"Deceptive Practice",19294,901
+2019,Gambling,142,142
+2019,Homicide,489,192
+2019,"Human Trafficking",15,0
+2019,"Interference With Officer",1546,1486
+2019,Intimidation,163,6
+2019,Kidnapping,173,12
+2019,"Liquor Law Violation",232,232
+2019,"Motor Vehicle Theft",8978,520
+2019,Narcotics,15080,15075
+2019,Non-criminal,3,1
+2019,Obscenity,59,45
+2019,"Offense Involving Children",2484,369
+2019,"Other Narcotic Violation",8,5
+2019,"Other Offense",16806,3713
+2019,Prostitution,681,681
+2019,"Public Indecency",11,11
+2019,"Public Peace Violation",1520,1071
+2019,Robbery,7995,710
+2019,"Sex Offense",1386,183
+2019,Stalking,228,36
+2019,Theft,62499,6112
+2019,"Weapons Violation",6339,4226
+2020,Arson,588,41
+2020,Assault,18260,2332
+2020,Battery,41519,6928
+2020,Burglary,8759,496
+2020,"Concealed Carry Violation",148,144
+2020,"Criminal Damage",24882,1181
+2020,"Criminal Sexual Assault",1260,90
+2020,"Criminal Trespass",4176,1710
+2020,"Deceptive Practice",18644,390
+2020,Gambling,25,25
+2020,Homicide,767,347
+2020,"Human Trafficking",6,1
+2020,"Interference With Officer",654,602
+2020,Intimidation,163,7
+2020,Kidnapping,120,11
+2020,"Liquor Law Violation",143,143
+2020,"Motor Vehicle Theft",9962,479
+2020,Narcotics,7493,7490
+2020,Non-criminal,1,0
+2020,Obscenity,58,47
+2020,"Offense Involving Children",2053,256
+2020,"Other Narcotic Violation",6,4
+2020,"Other Offense",12613,1777
+2020,Prostitution,277,275
+2020,"Public Indecency",9,9
+2020,"Public Peace Violation",1272,455
+2020,Ritualism,1,0
+2020,Robbery,7855,575
+2020,"Sex Offense",988,110
+2020,Stalking,205,15
+2020,Theft,41356,2804
+2020,"Weapons Violation",8433,5451
+2021,Arson,530,48
+2021,Assault,20345,1830
+2021,Battery,40484,5789
+2021,Burglary,6662,311
+2021,"Concealed Carry Violation",173,167
+2021,"Criminal Damage",25095,879
+2021,"Criminal Sexual Assault",1540,90
+2021,"Criminal Trespass",3406,997
+2021,"Deceptive Practice",17957,241
+2021,Gambling,13,12
+2021,Homicide,780,280
+2021,"Human Trafficking",11,2
+2021,"Interference With Officer",314,265
+2021,Intimidation,124,4
+2021,Kidnapping,87,5
+2021,"Liquor Law Violation",184,184
+2021,"Motor Vehicle Theft",10605,379
+2021,Narcotics,5419,5357
+2021,Non-criminal,4,1
+2021,Obscenity,51,36
+2021,"Offense Involving Children",1982,199
+2021,"Other Narcotic Violation",2,1
+2021,"Other Offense",13962,1487
+2021,Prostitution,95,94
+2021,"Public Indecency",4,4
+2021,"Public Peace Violation",603,242
+2021,Robbery,7921,503
+2021,"Sex Offense",1125,89
+2021,Stalking,370,22
+2021,Theft,40823,1553
+2021,"Weapons Violation",8979,5567
+2022,Arson,422,42
+2022,Assault,20815,2010
+2022,Battery,40968,5972
+2022,Burglary,7595,370
+2022,"Concealed Carry Violation",177,170
+2022,"Criminal Damage",27250,899
+2022,"Criminal Sexual Assault",1611,89
+2022,"Criminal Trespass",4223,1246
+2022,"Deceptive Practice",17162,305
+2022,Gambling,9,8
+2022,Homicide,688,295
+2022,"Human Trafficking",12,0
+2022,"Interference With Officer",392,346
+2022,Intimidation,184,3
+2022,Kidnapping,118,11
+2022,"Liquor Law Violation",203,200
+2022,"Motor Vehicle Theft",21472,596
+2022,Narcotics,4757,4645
+2022,Non-criminal,5,2
+2022,Obscenity,48,28
+2022,"Offense Involving Children",1905,181
+2022,"Other Narcotic Violation",7,3
+2022,"Other Offense",14624,2094
+2022,Prostitution,283,280
+2022,"Public Indecency",5,4
+2022,"Public Peace Violation",712,301
+2022,Robbery,8967,559
+2022,"Sex Offense",1243,106
+2022,Stalking,454,28
+2022,Theft,54899,2029
+2022,"Weapons Violation",8781,5394
+2023,Arson,513,58
+2023,Assault,22632,2329
+2023,Battery,44255,7002
+2023,Burglary,7489,446
+2023,"Concealed Carry Violation",205,196
+2023,"Criminal Damage",30094,942
+2023,"Criminal Sexual Assault",1683,104
+2023,"Criminal Trespass",4722,1324
+2023,"Deceptive Practice",17524,747
+2023,Gambling,15,15
+2023,Homicide,615,255
+2023,"Human Trafficking",11,0
+2023,"Interference With Officer",586,512
+2023,Intimidation,237,3
+2023,Kidnapping,139,4
+2023,"Liquor Law Violation",186,182
+2023,"Motor Vehicle Theft",29255,788
+2023,Narcotics,5455,5323
+2023,Non-criminal,3,0
+2023,Obscenity,42,23
+2023,"Offense Involving Children",1756,183
+2023,"Other Narcotic Violation",2,0
+2023,"Other Offense",15731,2485
+2023,Prostitution,209,198
+2023,"Public Indecency",6,5
+2023,"Public Peace Violation",862,389
+2023,Robbery,11050,668
+2023,"Sex Offense",1365,103
+2023,Stalking,531,35
+2023,Theft,57510,2858
+2023,"Weapons Violation",8608,4995
+2024,Arson,481,44
+2024,Assault,23482,2531
+2024,Battery,46146,7903
+2024,Burglary,8431,467
+2024,"Concealed Carry Violation",196,192
+2024,"Criminal Damage",28556,1106
+2024,"Criminal Sexual Assault",1615,79
+2024,"Criminal Trespass",4951,1431
+2024,"Deceptive Practice",16295,537
+2024,Gambling,22,22
+2024,Homicide,566,220
+2024,"Human Trafficking",19,0
+2024,"Interference With Officer",691,610
+2024,Intimidation,164,7
+2024,Kidnapping,97,6
+2024,"Liquor Law Violation",196,186
+2024,"Motor Vehicle Theft",21711,608
+2024,Narcotics,5990,5771
+2024,Non-criminal,3,1
+2024,Obscenity,62,29
+2024,"Offense Involving Children",1686,151
+2024,"Other Narcotic Violation",5,3
+2024,"Other Offense",17128,3295
+2024,Prostitution,307,294
+2024,"Public Indecency",9,8
+2024,"Public Peace Violation",979,483
+2024,Robbery,9109,755
+2024,"Sex Offense",1251,109
+2024,Stalking,516,35
+2024,Theft,60541,4127
+2024,"Weapons Violation",7839,4807
+2025,Arson,373,44
+2025,Assault,21575,2685
+2025,Battery,42555,8139
+2025,Burglary,9727,474
+2025,"Concealed Carry Violation",277,270
+2025,"Criminal Damage",26213,1134
+2025,"Criminal Sexual Assault",1668,52
+2025,"Criminal Trespass",5319,1680
+2025,"Deceptive Practice",14920,448
+2025,Gambling,13,12
+2025,Homicide,407,143
+2025,"Human Trafficking",13,1
+2025,"Interference With Officer",916,840
+2025,Intimidation,143,3
+2025,Kidnapping,89,7
+2025,"Liquor Law Violation",200,186
+2025,"Motor Vehicle Theft",17238,582
+2025,Narcotics,7417,7032
+2025,Non-criminal,3,3
+2025,Obscenity,55,28
+2025,"Offense Involving Children",1546,114
+2025,"Other Narcotic Violation",10,5
+2025,"Other Offense",16774,3403
+2025,Prostitution,189,172
+2025,"Public Indecency",10,10
+2025,"Public Peace Violation",1056,536
+2025,Robbery,5811,558
+2025,"Sex Offense",1323,114
+2025,Stalking,574,25
+2025,Theft,55102,4959
+2025,"Weapons Violation",5445,4248
+2026,Arson,81,3
+2026,Assault,4844,631
+2026,Battery,10034,1893
+2026,Burglary,3100,91
+2026,"Concealed Carry Violation",45,45
+2026,"Criminal Damage",5998,266
+2026,"Criminal Sexual Assault",398,5
+2026,"Criminal Trespass",1399,488
+2026,"Deceptive Practice",3212,85
+2026,Homicide,98,15
+2026,"Human Trafficking",7,0
+2026,"Interference With Officer",262,232
+2026,Intimidation,68,0
+2026,Kidnapping,28,1
+2026,"Liquor Law Violation",46,46
+2026,"Motor Vehicle Theft",4406,141
+2026,Narcotics,1753,1630
+2026,Obscenity,9,3
+2026,"Offense Involving Children",410,26
+2026,"Other Offense",4010,668
+2026,Prostitution,33,28
+2026,"Public Indecency",10,10
+2026,"Public Peace Violation",270,131
+2026,Robbery,1092,97
+2026,"Sex Offense",310,12
+2026,Stalking,136,6
+2026,Theft,12044,1154
+2026,"Weapons Violation",1125,825
