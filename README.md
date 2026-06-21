@@ -10,7 +10,6 @@ a full ETL pipeline.
 - **MySQL** — data cleaning and transformation
 - **Python** (pandas, matplotlib, seaborn) — exploratory 
   data analysis and visualization
-- **Tableau Public** — interactive dashboard
 
 ## ETL Process
 
